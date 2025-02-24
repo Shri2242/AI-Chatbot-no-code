@@ -1,4 +1,4 @@
-const apiKey = "f7fd21eeb6msh2a1733b9e7c9313p1610acjsn7bf5c303e5ae"; 
+const apiKey = "your rapid api key"; 
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
 const sendBtn = document.getElementById("send-btn");
